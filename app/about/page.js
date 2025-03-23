@@ -32,12 +32,12 @@ export default function AboutPage() {
             <h3 className="text-xl font-semibold text-blue-400">Education</h3>
             <ul className="mt-3 text-gray-300 list-disc list-inside">
               <li>Institute of Company Secretaries of India</li>
-              <li>CSEET: 148/200 (May 2021)</li>
-              <li>Executive Group I: 200/400 (Feb 2022)</li>
-              <li>Executive Group II: 247/400 (Aug 2022)</li>
-              <li>Professional Group I: 160/300 (Aug 2023)</li>
-              <li>Professional Group II: 160/300 (Feb 2024)</li>
-              <li>Professional Group III: 170/300 (Aug 2024)</li>
+              <li>CSEET: (May 2021)</li>
+              <li>Executive Group I: (Feb 2022)</li>
+              <li>Executive Group II: (Aug 2022)</li>
+              <li>Professional Group I: (Aug 2023)</li>
+              <li>Professional Group II: (Feb 2024)</li>
+              <li>Professional Group III: (Aug 2024)</li>
               <li>Chaudhary Charan Singh University Meerut (B.COM, M.COM)</li>
               <li>CBSE Delhi - XII (HSC), X (SSC)</li>
             </ul>
