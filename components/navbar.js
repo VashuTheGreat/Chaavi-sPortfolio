@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="bg-gradient-to-r from-gray-900 to-blue-900 p-4 sticky top-0 z-50">
       <div className="container mx-auto flex justify-evenly max-md:justify-between items-center">
         <Link href="/">
-          <div className="logo text-white text-xl md:text-2xl font-bold">Chhavi's Portfolio</div>
+          <div className="logo text-white text-xl md:text-2xl font-bold">Chhavi&#39;s Portfolio</div>
         </Link>
 
         <button
