@@ -4,7 +4,7 @@ export default function AboutPage() {
       <div className="container mx-auto px-6 py-12 text-center">
         <h1 className="text-4xl font-bold text-yellow-400">About Me</h1>
         <p className="mt-4 text-gray-300 max-w-2xl mx-auto">
-          Hi, I'm <span className="text-yellow-400">Chhavi</span>,I'm a dedicated Company Secretary with expertise in corporate governance, compliance, and regulatory affairs. I ensure seamless legal and financial operations while upholding corporate integrity and strategic decision-making.
+          Hi, I&apos;s m <span className="text-yellow-400">Chhavi</span>,I&apos;s m a dedicated Company Secretary with expertise in corporate governance, compliance, and regulatory affairs. I ensure seamless legal and financial operations while upholding corporate integrity and strategic decision-making.
         </p>
       </div>
 
